@@ -87,7 +87,9 @@ When you run the program, you’ll see the following menu:
 ## 👨‍💻 Author
 
 * **Swarup Pradhan**
+  
   💼 GitHub: [Swarup-Pradhan](https://github.com/Swarup-Pradhan)
+  
   📧 Email: [swaruppradhan0510@gmail.com](mailto:swaruppradhan0510@gmail.com)
 
 ---
