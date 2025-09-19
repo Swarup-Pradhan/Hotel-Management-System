@@ -86,20 +86,8 @@ When you run the program, you’ll see the following menu:
 
 ## 👨‍💻 Author
 
-* **Your Name**
+* **Swarup Pradhan**
   💼 GitHub: [Swarup-Pradhan](https://github.com/Swarup-Pradhan)
-  📧 Email: [your-email@example.com](mailto:your-email@example.com)
+  📧 Email: [swaruppradhan0510@gmail.com](mailto:swaruppradhan0510@gmail.com)
 
 ---
-
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
-
-```
-
----
-
-✨ This README is ready to be used.  
-Do you want me to also add **example screenshots of console output** (bill, booking, etc.) to make it look more professional?
-```
